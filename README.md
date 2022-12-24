@@ -33,7 +33,7 @@
 
 ##### 3) Описание алогоритма:
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/1.jpg)
 изображение 1
 изображение 2
 изображение 3
