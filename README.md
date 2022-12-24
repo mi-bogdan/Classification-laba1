@@ -16,7 +16,7 @@
 
 ##### 1) Описание предметной области и постановка задачи:
 
-  - [Набор данных Hayes-Roth](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/1.jpg)
+  - [Набор данных Hayes-Roth](http://archive.ics.uci.edu/ml/datasets/Hayes-Roth)
 
 ##### 2) Информация о наборе данных:
 
