@@ -16,7 +16,7 @@
 
 ##### 1) Описание предметной области и постановка задачи:
 
-  - [Набор данных Hayes-Roth](http://archive.ics.uci.edu/ml/datasets/Hayes-Roth)
+  - [Набор данных Hayes-Roth](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/1.jpg)
 
 ##### 2) Информация о наборе данных:
 
@@ -33,6 +33,7 @@
 
 ##### 3) Описание алогоритма:
 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 изображение 1
 изображение 2
 изображение 3
