@@ -34,10 +34,9 @@
 ##### 3) Описание алогоритма:
 
 ![Image alt](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/1.jpg)
-изображение 1
-изображение 2
-изображение 3
-    
+![Image alt](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/2.jpg)
+![Image alt](https://github.com/mi-bogdan/Classification-laba1/blob/main/img/3.jpg)
+  
 ## License
 
 Copyright (c) 2022-present, - Shnyra Bogdan
